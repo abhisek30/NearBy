@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402861582238",
+    "project_id": "nearby-301d5",
+    "storage_bucket": "nearby-301d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402861582238:android:9aebc58363e44993e4d88f",
+        "android_client_info": {
+          "package_name": "com.avinya.ai.nearby.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXyiy7m3nSlc7GVYoeu_z8vgAws1OAG9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
