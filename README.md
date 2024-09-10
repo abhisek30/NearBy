@@ -4,5 +4,8 @@ Nearby is a real-time app that helps people connect with others nearby who share
 It is build with Kotlin Multiplatform & Jetpack Compose following clean architecture.
 
 
-# Kotlin Multiplatform Architecture
-![image](https://github.com/user-attachments/assets/e012125b-0cf0-47ad-b516-c3b8b198f7b9)
+## Working of Kotlin Multiplatform 
+- The Kotlin compiler produces different outputs for each target platform:
+    - JVM bytecode for Android and server-side applications
+    - Native code for iOS and other native platforms
+- ![image](https://github.com/user-attachments/assets/e012125b-0cf0-47ad-b516-c3b8b198f7b9)
