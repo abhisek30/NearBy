@@ -18,3 +18,5 @@ It is build with Kotlin Multiplatform & Jetpack Compose following clean architec
 ![image](https://github.com/user-attachments/assets/28a1afb6-be83-4ca4-bcac-44ec3536f397)
 
 
+## Architecture of Kotlin Multiplatform
+![image](https://github.com/user-attachments/assets/4ac920f6-8cf8-4ea3-80b6-b4127ea4182c)
